@@ -1,0 +1,50 @@
+/*-------------------------------------------------------------------------------------------------*/
+#nskxc
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+
+.bkl{
+    font-size: 15px;
+    font-style: oblique;
+    font-weight: bold;
+    color: #000080;
+}
+
+.carousel-inner  { 
+width: 80% !important ; 
+height: 100% !important;
+margin: auto;
+ }
+ .slidetitle
+ {
+    margin-top: 54px;
+    text-align: left;
+    size: 11px;
+ }
+.titles
+{
+    color: #C71585;
+    font-size: 40px;
+    text-align: left;
+
+}
+.stitles
+{
+    color: #800080;
+    font-size: 20px;
+    text-align: left;
+
+}
+.parg
+{
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: left;
+    
+}
+/*---------------------------------------------------------------------------------------------*/
